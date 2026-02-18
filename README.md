@@ -1,20 +1,24 @@
-Entrega 1 - Backend API con Node.js y Express
-Descripción
+# 🚀 Entrega 1 - Backend API con Node.js y Express
 
-Este proyecto consiste en el desarrollo de un servidor backend utilizando Node.js y Express que permite gestionar productos y carritos de compra mediante una API REST.
+## 📌 Descripción
 
-La persistencia de los datos se realiza utilizando el sistema de archivos, almacenando la información en archivos JSON.
+Este proyecto consiste en el desarrollo de un servidor backend utilizando **Node.js** y **Express**, que permite gestionar productos y carritos de compra mediante una **API REST**.
 
-Este proyecto fue desarrollado como parte de la entrega del curso Backend de Coderhouse.
+La persistencia de los datos se realiza utilizando el sistema de archivos, almacenando la información en archivos **JSON**, permitiendo crear, leer, actualizar y eliminar productos.
 
-Tecnologías utilizadas
+Este proyecto fue desarrollado como parte de la **Entrega 1 del curso Backend de Coderhouse**.
 
--Node.js
+---
 
--Express.js
+## 🛠️ Tecnologías utilizadas
 
--JavaScript
+- Node.js
+- Express.js
+- JavaScript
+- File System (fs)
+- JSON
+- Postman (para pruebas)
 
--File System (fs)
 
--JSON
+
+
