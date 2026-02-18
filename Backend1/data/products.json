@@ -1,0 +1,44 @@
+[
+  {
+    "0": {
+      "id": 1,
+      "title": "Teclado",
+      "description": "Mecánico",
+      "code": "TEC-001",
+      "price": 100,
+      "status": true,
+      "stock": 10,
+      "category": "perifericos",
+      "thumbnails": [
+        "img/teclado.png"
+      ]
+    },
+    "id": 1
+  },
+  {
+    "id": 2,
+    "title": "Mouse Gamer Logitech G203",
+    "description": "Mouse gamer con iluminación RGB y sensor de alta precisión",
+    "code": "LOG-G203",
+    "price": 35,
+    "status": true,
+    "stock": 25,
+    "category": "perifericos",
+    "thumbnails": [
+      "img/mouse-g203.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Monitor Samsung 24 pulgadas",
+    "description": "Monitor Full HD con panel IPS",
+    "code": "SAM-MON24",
+    "price": 180,
+    "status": true,
+    "stock": 12,
+    "category": "monitores",
+    "thumbnails": [
+      "img/monitor-samsung24.png"
+    ]
+  }
+]
